@@ -10,14 +10,14 @@ Libraries:
 
 Components for a remote controller:
 - Arduino Nano Every
-- Bluetooth module HC-05
+- Bluetooth module HC-05(VERSION:3.0-20170601)
 - 2 x Joystick
 - 3 x kOhm resistor
 - jumpers
   
 Components for a car:
 - Arduino UNO
-- Bluetooth module HC-05
+- Bluetooth module HC-05(VERSION:3.0-20170601)
 - Motor driver L298N
 - 3 x kOhm resistor
 - 2 x batteries 18650
