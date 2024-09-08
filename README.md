@@ -14,6 +14,7 @@ Components for a remote controller:
 - 2 x Joystick
 - 3 x kOhm resistor
 - jumpers
+- powerbank
   
 Components for a car:
 - Arduino UNO
