@@ -31,7 +31,7 @@ Components for a car:
 
 How to set up car and controller:
 1) connect the car's HC-05 to Serial monitor
-2) check HC-05 address using command AT+ADDR?
+2) check car's HC-05 address using command AT+ADDR?
 3) connect the controller's HC-05 to Serial monitor
 4) change controller's HC-05 role to master(AT+ROLE=1) and bind to car's HC-05(AT+BIND=[car's HC-05 address])
 5) upload the sketch `car.ino` to the car
