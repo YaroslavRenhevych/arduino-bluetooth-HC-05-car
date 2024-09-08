@@ -1,11 +1,11 @@
 # arduino-bluetooth-HC-05-car
-Car + remote controller based on Arduino microcontrollers and HC-05 bluetooth modules
+Car + remote controller based on Arduino microcontrollers and HC-05 Bluetooth modules
 
 Communication technology: Bluetooth
 
 Libraries:
-https://github.com/Arduino-IRremote
-https://github.com/AndreaLombardo/L298N
+- https://github.com/Arduino-IRremote
+- https://github.com/AndreaLombardo/L298N
 
 
 Components for a remote controller:
